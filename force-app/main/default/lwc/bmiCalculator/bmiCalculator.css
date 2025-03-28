@@ -1,0 +1,47 @@
+.app{
+    min-height: 100vh;
+    background-image: url(/sfsites/c/resource/BmiAppBackground);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.box{
+    max-width: 420px;
+    text-align: center;
+    margin: auto;
+    background: bisque;
+    padding: 1px;
+    border-radius: 20px;
+}
+h1{
+    font-size: 35px;
+    padding: 20px 0;
+    font-weight: bold;
+}
+.info-wrapper{
+    padding: 40px;
+    background: lightblue;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+h2{
+    font-size: 25px;
+    color: red;
+    font-weight: 400;
+}
+.label{
+    font-size: 19px;
+    font-weight: 400;
+}
+.custom-button{
+    font-size: larger;
+    width: 320px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    background-color: white;
+}
+.reult-value{
+    font-size: 30px;
+    color: red;
+}
